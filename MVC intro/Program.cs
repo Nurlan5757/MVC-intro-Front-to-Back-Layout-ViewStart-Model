@@ -1,3 +1,5 @@
+using MVC_intro.DataAccesLayer;
+
 namespace MVC_intro
 {
     public class Program
@@ -6,6 +8,10 @@ namespace MVC_intro
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<MvcContext>();
+            
+
+
             var app = builder.Build();
 
             app.UseStaticFiles();

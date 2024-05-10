@@ -3,48 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\views\\home\\countacus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\views\\home\\countacus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\viewmodels\\categories\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\viewmodels\\categories\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\mvc intro\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\viewmodels\\sliders\\deleteslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\viewmodels\\sliders\\deleteslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\viewmodels\\sliders\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\viewmodels\\sliders\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\viewmodels\\sliders\\updateslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\viewmodels\\sliders\\updateslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\mvc intro\\viewmodels\\sliders\\getslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\viewmodels\\sliders\\getslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\mvc intro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\mvc intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\dataacceslayer\\mvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\dataacceslayer\\mvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc intro\\mvc intro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5136E248-9EC2-41F6-8C94-35C966974B5F}|MVC intro\\MVC intro.csproj|solutionrelative:mvc intro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,149 +68,162 @@
         },
         {
           "DockedWidth": 301,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Controllers\\ShopController.cs",
-              "RelativeDocumentMoniker": "MVC intro\\Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Controllers\\ShopController.cs",
-              "RelativeToolTip": "MVC intro\\Controllers\\ShopController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAAMAAAA",
+              "DocumentIndex": 5,
+              "Title": "DeleteSliderVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\ViewModels\\Sliders\\DeleteSliderVM.cs",
+              "RelativeDocumentMoniker": "MVC intro\\ViewModels\\Sliders\\DeleteSliderVM.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\ViewModels\\Sliders\\DeleteSliderVM.cs",
+              "RelativeToolTip": "MVC intro\\ViewModels\\Sliders\\DeleteSliderVM.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wB8AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T22:02:47.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Shop.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\Home\\Shop.cshtml",
-              "RelativeDocumentMoniker": "MVC intro\\Views\\Home\\Shop.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\Home\\Shop.cshtml",
-              "RelativeToolTip": "MVC intro\\Views\\Home\\Shop.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T21:24:33.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CountacUs.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\Home\\CountacUs.cshtml",
-              "RelativeDocumentMoniker": "MVC intro\\Views\\Home\\CountacUs.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\Home\\CountacUs.cshtml",
-              "RelativeToolTip": "MVC intro\\Views\\Home\\CountacUs.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T21:24:10.253Z",
+              "WhenOpened": "2024-05-10T00:42:13.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GetCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\ViewModels\\Categories\\GetCategoryVM.cs",
-              "RelativeDocumentMoniker": "MVC intro\\ViewModels\\Categories\\GetCategoryVM.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\ViewModels\\Categories\\GetCategoryVM.cs",
-              "RelativeToolTip": "MVC intro\\ViewModels\\Categories\\GetCategoryVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T20:57:50.508Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC intro\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "MVC intro\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T19:27:13.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MVC intro\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "MVC intro\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC intro\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC intro\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T20:38:14.72Z",
+              "WhenOpened": "2024-05-10T00:25:06.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC intro\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC intro\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T00:23:15.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVC intro\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVC intro\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Title": "GetCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "RelativeDocumentMoniker": "MVC intro\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "RelativeToolTip": "MVC intro\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T20:29:13.161Z",
+              "WhenOpened": "2024-05-10T00:27:31.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AboutUs.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\Home\\AboutUs.cshtml",
-              "RelativeDocumentMoniker": "MVC intro\\Views\\Home\\AboutUs.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\Home\\AboutUs.cshtml",
-              "RelativeToolTip": "MVC intro\\Views\\Home\\AboutUs.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T21:24:23.473Z",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "MVC intro\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "MVC intro\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:50:57.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC intro\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVC intro\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T19:20:02.485Z",
+              "Title": "CreateSliderVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "RelativeDocumentMoniker": "MVC intro\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "RelativeToolTip": "MVC intro\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:43:24.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MvcContext.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\DataAccesLayer\\MvcContext.cs",
-              "RelativeDocumentMoniker": "MVC intro\\DataAccesLayer\\MvcContext.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\DataAccesLayer\\MvcContext.cs",
-              "RelativeToolTip": "MVC intro\\DataAccesLayer\\MvcContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "DocumentIndex": 7,
+              "Title": "UpdateSliderVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\ViewModels\\Sliders\\UpdateSliderVM.cs",
+              "RelativeDocumentMoniker": "MVC intro\\ViewModels\\Sliders\\UpdateSliderVM.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\ViewModels\\Sliders\\UpdateSliderVM.cs",
+              "RelativeToolTip": "MVC intro\\ViewModels\\Sliders\\UpdateSliderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T15:53:40.369Z",
+              "WhenOpened": "2024-05-10T00:41:53.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Program.cs",
-              "RelativeDocumentMoniker": "MVC intro\\Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Program.cs",
-              "RelativeToolTip": "MVC intro\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Title": "GetSliderVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\ViewModels\\Sliders\\GetSliderVM.cs",
+              "RelativeDocumentMoniker": "MVC intro\\ViewModels\\Sliders\\GetSliderVM.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\ViewModels\\Sliders\\GetSliderVM.cs",
+              "RelativeToolTip": "MVC intro\\ViewModels\\Sliders\\GetSliderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T17:19:34.814Z",
+              "WhenOpened": "2024-05-09T19:14:01.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC intro\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC intro\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T19:50:06.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVC intro\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVC intro\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC intro\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC intro\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T18:16:08.529Z",
+              "WhenOpened": "2024-05-10T00:50:32.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Program.cs",
+              "RelativeDocumentMoniker": "MVC intro\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVC intro\\MVC intro\\Program.cs",
+              "RelativeToolTip": "MVC intro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:19:34.814Z",
               "EditorCaption": ""
             }
           ]

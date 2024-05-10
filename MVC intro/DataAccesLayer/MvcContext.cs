@@ -10,6 +10,7 @@ namespace MVC_intro.DataAccesLayer
         {          
         }
         public DbSet<Category> Categories {  get; set; }
+        public DbSet<Slider> Sliders { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
             options.UseSqlServer("Server=DESKTOP-8ABCEA9\\SQLEXPRESS;Database=106Pronia;Trusted_Connection=true;TrustServerCertificate=True");

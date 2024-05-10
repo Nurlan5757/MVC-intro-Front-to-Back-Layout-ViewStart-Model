@@ -10,14 +10,15 @@ namespace MVC_intro
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<MvcContext>();
             
-
-
             var app = builder.Build();
+
+
 
             app.UseStaticFiles();
 
-            app.MapControllerRoute("defaut", "{controller=Home}/{action=Index}");
-
+            app.MapControllerRoute("areas", "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+        
+            app.MapControllerRoute("defaut", "{controller=Home}/{action=Index}/{id?}");
             app.Run();
         }
     }
